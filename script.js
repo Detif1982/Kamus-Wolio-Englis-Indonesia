@@ -10,6 +10,7 @@ const dictionary = [
   { wolio: "Bolimo lingka", indonesia: "Jangan pergi", english: "Don’t go" },
   { wolio: "Sumpu kahawa", indonesia: "Minum kopi", english: "Drink coffee" },
   { wolio: "Uwe", indonesia: "Air", english: "Water" }
+   { wolio: "Uncura", indonesia: "Duduk", english: "Sit" }
 ];
 
 function searchWord() {
