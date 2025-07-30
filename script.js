@@ -12,6 +12,7 @@ const dictionary = [
   { wolio: "Uwe", indonesia: "Air", english: "Water" }
    { wolio: "Uncura", indonesia: "Duduk", english: "Sit" }
  { wolio: "lingka", indonesia: "pergi", english: "go" }
+ { wolio: "kande", indonesia: "makan", english: "eat" }
 ];
 
 function searchWord() {
