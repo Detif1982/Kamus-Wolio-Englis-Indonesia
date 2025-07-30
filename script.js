@@ -13,6 +13,7 @@ const dictionary = [
    { wolio: "Uncura", indonesia: "Duduk", english: "Sit" }
  { wolio: "lingka", indonesia: "pergi", english: "go" }
  { wolio: "kande", indonesia: "makan", english: "eat" }
+ { wolio: "kasiru", indonesia: "sendok", english: "spoon" }
 ];
 
 function searchWord() {
