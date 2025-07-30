@@ -1,1 +1,1 @@
-# Kamus-Wolio-Englis-Indonesia
+# Kamus-Wolio-English-Indonesia
